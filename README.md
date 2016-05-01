@@ -1,3 +1,2 @@
-# CodingWorkshop2016
-Website for SCU AKPsi Coding Workshop 2016
-
+# scuakpsi.github.io
+Website for Santa Clara Alpha Kappa Psi Events
